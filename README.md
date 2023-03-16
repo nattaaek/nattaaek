@@ -9,7 +9,7 @@ I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passi
 - 🏠 I'm from [🌏 Thailand]
 - 🔭 I’m currently working on [🚀 Agoda]
 - 🌱 I’m currently learning [📚 Rust/NeoVim/tRPC/Module federation]
-- 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] in my free time
+- 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] in my free time and I'm Dota2 immortal player.
 
 ## 🛠️ Technologies & Tools
 ```yaml
