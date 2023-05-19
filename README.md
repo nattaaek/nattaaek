@@ -2,6 +2,11 @@
 
 ## 🌟 A little about me...
 
+The first Runner-up Microsoft Word Microsoft office speicialist Thailand competition 2015
+The Second Runner up A new generation of creative youth project a discipline used ICT Microsoft office 
+The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2014
+The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2013
+
 I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passion for [💻 technology]. I love exploring new technologies and using them to solve complex problems in innovative ways.
 
 - 🏠 I'm from [🌏 Thailand]
