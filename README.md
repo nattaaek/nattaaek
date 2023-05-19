@@ -12,8 +12,9 @@ I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passi
 - 🏠 I'm from [🌏 Thailand]
 - 🔭 I’m currently working on [🚀 Agoda]
 - 🌱 I’m currently learning [📚 Rust/NeoVim/tRPC/Module federation]
-- 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] in my free time and I'm Dota2 immortal player.
-- ![image](https://github.com/nattaaek/nattaaek/assets/26399807/1123362e-795f-4ca4-b3ed-584d7080be20)
+- 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] 
+- I'm Dota2 immortal player.
+![image](https://github.com/nattaaek/nattaaek/assets/26399807/1123362e-795f-4ca4-b3ed-584d7080be20)
 
 ## 🛠️ Technologies & Tools
 ```yaml
