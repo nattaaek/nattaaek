@@ -2,10 +2,10 @@
 
 ## 🌟 A little about me...
 
-The first Runner-up Microsoft Word Microsoft office speicialist Thailand competition 2015
-The Second Runner up A new generation of creative youth project a discipline used ICT Microsoft office 
-The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2014
-The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2013
+- The first Runner-up Microsoft Word Microsoft office speicialist Thailand competition 2015
+- The Second Runner up A new generation of creative youth project a discipline used ICT Microsoft office 
+- The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2014
+- The Second Runner up Microsoft Excel Microsoft office speicialist Thailand competition 2013
 
 I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passion for [💻 technology]. I love exploring new technologies and using them to solve complex problems in innovative ways.
 
@@ -13,6 +13,7 @@ I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passi
 - 🔭 I’m currently working on [🚀 Agoda]
 - 🌱 I’m currently learning [📚 Rust/NeoVim/tRPC/Module federation]
 - 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] in my free time and I'm Dota2 immortal player.
+- ![image](https://github.com/nattaaek/nattaaek/assets/26399807/1123362e-795f-4ca4-b3ed-584d7080be20)
 
 ## 🛠️ Technologies & Tools
 ```yaml
