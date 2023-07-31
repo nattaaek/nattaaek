@@ -10,7 +10,7 @@
 I'm a [🎓 bachelor degree of science ] in [📚 computer science] with a passion for [💻 technology]. I love exploring new technologies and using them to solve complex problems in innovative ways.
 
 - 🏠 I'm from [🌏 Thailand]
-- 🔭 I’m currently working on [🚀 Agoda]
+- 🔭 I’m currently working for [🚀 Agoda]
 - 🌱 I’m currently learning [📚 Rust/NeoVim/tRPC/Module federation]
 - 🎨 Fun fact: I enjoy [🎵 music/🏃 sports/📚 reading/🎬 movies/🎮 gaming/✈️ traveling] 
 - I'm Dota2 immortal player.
